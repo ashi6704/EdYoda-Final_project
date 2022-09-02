@@ -1,0 +1,9 @@
+{
+    "1": {
+        "Food_Name": "Tandoori Chicken",
+        "Quantity": "1",
+        "Price": 80.0,
+        "Discount": 20.0,
+        "Stock": 100
+    }
+}

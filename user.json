@@ -1,0 +1,17 @@
+[
+    {
+        "Full_name": "Abc",
+        "Email": "abc123@gmail.com",
+        "Password": "1234",
+        "Address": "Xyz House, kerala, India",
+        "Phone Number": 9898981111,
+        "Order History": [
+            [
+                "1",
+                "Tandoori Chicken",
+                "1",
+                80.0
+            ]
+        ]
+    }
+]
